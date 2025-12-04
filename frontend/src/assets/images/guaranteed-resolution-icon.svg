@@ -1,0 +1,10 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Map pin/shield shape (inverted teardrop) -->
+  <path d="M24 2C18 2 12 4 8 8C4 12 2 18 2 24C2 30 4 34 8 38C12 42 18 44 24 44C30 44 36 42 40 38C44 34 46 30 46 24C46 18 44 12 40 8C36 4 30 2 24 2Z" fill="black"/>
+  <!-- Checkmark inside -->
+  <path d="M16 24L20 28L32 16" stroke="white" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Horizontal bar extending beyond the shape -->
+  <rect x="14" y="36" width="20" height="3" fill="black"/>
+  <rect x="16" y="37" width="16" height="1" fill="#808080"/>
+</svg>
+
